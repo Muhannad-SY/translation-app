@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267311024240",
+    "project_id": "muhannad-translation-app",
+    "storage_bucket": "muhannad-translation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267311024240:android:a04a9bc87d5fdc4dd0ccb5",
+        "android_client_info": {
+          "package_name": "com.muhannad.translation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9E6oOBiOHQ5fsZIXm22zywmtYy_DEQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
